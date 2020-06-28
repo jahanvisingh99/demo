@@ -278,4 +278,4 @@ $(function () {
   
   global.$dc = dc;
   
-  })(window);
+  })(window); 
